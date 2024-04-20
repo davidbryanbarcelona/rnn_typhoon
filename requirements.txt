@@ -1,7 +1,4 @@
 streamlit
-streamlit_option_menu
-matplotlib
+tensorflow
 pandas
-seaborn
-scikit-learn
 numpy
